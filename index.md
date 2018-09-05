@@ -36,8 +36,8 @@ Your Pages site will **use** the _layout and styles from the Jekyll theme you ha
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-#Sai's First cs193 Lab
--It is worth one credit
--There is not much work
--It is chill 
--I learned to use Github
+# Sai's First cs193 Lab
+- It is worth one credit
+- There is not much work
+- It is chill 
+- I learned to use Github
